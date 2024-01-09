@@ -1,7 +1,7 @@
 /**
  * Reference Manager Class
  */
-export class RefManager { }
+export default class RefManager { }
 
 /**
  * References Variable

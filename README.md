@@ -4,7 +4,7 @@ A JavaScript class with static methods
 ## Usage / Example
 
 ```javascript
-import { RefManager } from "./RefManager.js";
+import RefManager from "./RefManager.js";
 
 class Class1 {
     constructor() {
